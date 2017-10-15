@@ -1,0 +1,11 @@
+{
+  "name": "musicbox",
+  "version": "1.0.0",
+  "description": "a hörbert clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ralf Enderle",
+  "license": "ISC"
+}
