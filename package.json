@@ -7,5 +7,8 @@
     "test": "test"
   },
   "author": "Ralf Enderle",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-mpg123": "^1.0.2-23"
+  }
 }
