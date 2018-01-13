@@ -9,6 +9,7 @@
   "author": "Ralf Enderle",
   "license": "ISC",
   "dependencies": {
-    "node-mpg123": "^1.0.2-23"
+    "node-mpg123": "^1.0.2-23",
+    "rpi-gpio": "^0.9.1"
   }
 }
