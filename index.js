@@ -3,7 +3,7 @@
 const path = require('path');
 const { fork } = require('child_process');
 
-// const GPIOListener = require('./lib/GPIOListener');
+const GPIOListener = require('./lib/GPIOListener');
 
 const rampUp = () => {
 
